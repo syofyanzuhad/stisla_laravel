@@ -4,7 +4,7 @@ Stisla is the most-awesome admin panel I've seen so far. As I love this template
 ## Installation
 Clone the repo:
 ```shell
-git clone https://github.com/rehmatworks/stisla-laravel.git
+git clone https://github.com/syofyanzuhad/stisla_laravel.git
 ```
 
 Install composer packages:
